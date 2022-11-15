@@ -5,6 +5,6 @@ This report is to analyze the dataset (2015 Building Energy Benchmarking) from t
 3) prediction of green-house gas emission from a building in respect to its features, such as property type, gross floor area (GFA), energy (electricity, natural gas and steam) use, location, building age etc. 
 
 Details for the report:
-1) python codes on Jupyter Notebook
-2) sql codes on MS sql server (the dataset is insert to MS sql server for a database of this project)
-3) a presentation in pdf
+1) python codes via Jupyter Notebook
+2) sql codes via MS sql server (using the dataset to develop a database into MS sql server for this project use)
+3) an analystic presentation for this project in pdf
